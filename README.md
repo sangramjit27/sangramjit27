@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm Sangramjit Sarkar
+#  Hi there, I'm Sangramjit Sarkar
 
 🎓 B.Tech CSE Student @ Amity University Kolkata  
-🧠 AI Intern @ IOCL | Aspiring AI Engineer & Project Manager  
-💡 Passionate about building smart and impactful software solutions
+ AI Intern @ IOCL | Aspiring AI Engineer & Project Manager  
+ Passionate about building smart and impactful software solutions
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Aspiring AI Engineer & Project Manager with a passion for building smart and impactful software solutions. Currently a B.Tech CSE student at **Amity University Kolkata** and AI Intern at **IOCL**, I specialize in:
 
@@ -40,10 +40,10 @@ I have hands-on experience developing full-stack applications and AI-driven syst
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 - 💼 [LinkedIn]  
-- 🌍 Portfolio: *(Coming soon)*
+-  Portfolio: *(Coming soon)*
 
 ---
 
